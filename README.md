@@ -1,3 +1,2 @@
-# celi-demo-dash
-
-4. semester demo af deploy GitHub dash app til Azure
+# kea_dash_fakedata
+Demo af Dash med data fra en Excel fil - Deploy på Azure
